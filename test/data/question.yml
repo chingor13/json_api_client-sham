@@ -1,0 +1,9 @@
+one:
+  id: 1
+  subject: "How do I find a lawyer?"
+  body: "I'm not sure where to look for one? The phone book?"
+
+two:
+  id: 2
+  subject: "How do I love thee?"
+  body: "Let me count the ways."
